@@ -1,6 +1,3 @@
-### Repository Name: **Market-Basket-Wizard**
-
-### README.md
 
 ---
 
